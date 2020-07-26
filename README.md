@@ -1,4 +1,4 @@
-# arduino
+# Introduction to Arduino Webinar series
 FAU Libraries Arduino Webinar Slides and Code
 
 # Videos
