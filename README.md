@@ -1,10 +1,10 @@
 # Introduction to Arduino Webinar series
 FAU Libraries Arduino Webinar Slides and Code
 
-Module 1
+Module 1<br/>
 [<img src="https://img.youtube.com/vi/PLjWV6wcQYE/maxresdefault.jpg" width="50%">](https://youtu.be/PLjWV6wcQYE)
 
-Module 2
+Module 2<br/>
 [<img src="https://img.youtube.com/vi/ebqfjJiBUPc/maxresdefault.jpg" width="50%">](https://youtu.be/ebqfjJiBUPc)
 
 
