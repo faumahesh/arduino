@@ -17,3 +17,8 @@ Module 2<br/>
 SOS Example Video (click on image to view)<br/>
 
 [<img src="https://img.youtube.com/vi/8JFSBKLtBFI/maxresdefault.jpg" width="50%">](https://youtu.be/8JFSBKLtBFI)
+
+Motor Basics Example Video (click on image to view)<br/>
+
+[<img src="https://img.youtube.com/vi/4gyvQvmvYio/maxresdefault.jpg" width="50%">](https://youtu.be/4gyvQvmvYio)
+
